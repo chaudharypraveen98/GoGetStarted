@@ -1,5 +1,6 @@
 ## Go : Get Started
-This proejct will contains simple codes to make beginers to get started easily.
+This proejct will contains simple codes to make beginers to get started easily.  
+
 It contains
 <ol>
 <li>Print statement</li>
